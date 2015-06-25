@@ -1,0 +1,13 @@
+c:\users\eizo\documents\visual studio 2013\Projects\Nazeka\Nazeka\bin\Debug\Nazeka.exe.config
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\bin\Debug\Nazeka.exe.config
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\bin\Debug\Nazeka.exe
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\bin\Debug\Nazeka.pdb
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\MainWindow.baml
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\MainWindow.g.cs
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\App.g.cs
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\Nazeka_MarkupCompile.cache
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\Nazeka.g.resources
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\Nazeka.Properties.Resources.resources
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\Nazeka.csproj.GenerateResource.Cache
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\Nazeka.exe
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Debug\Nazeka.pdb

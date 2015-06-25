@@ -1,0 +1,13 @@
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\bin\Release\Nazeka.exe.config
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\bin\Release\Nazeka.exe
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\bin\Release\Nazeka.pdb
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\Nazeka.csprojResolveAssemblyReference.cache
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\MainWindow.baml
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\MainWindow.g.cs
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\App.g.cs
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\Nazeka_MarkupCompile.cache
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\Nazeka.g.resources
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\Nazeka.Properties.Resources.resources
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\Nazeka.csproj.GenerateResource.Cache
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\Nazeka.exe
+C:\Users\eizo\OneDrive\svn\Nazeka\Nazeka\Nazeka\obj\Release\Nazeka.pdb
