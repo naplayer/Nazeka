@@ -1,0 +1,2 @@
+# Nazeka
+Windows desktop application.
